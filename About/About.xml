@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Gender Ratio Genes: 1.5+</name>
+	<author>Tuarre</author>
+	<packageId>Tuarre.GenGenderRatio</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>
+	This mod add a new pack of genes that change the gender ratio of that xenotype
+	
+	
+Note from the porter: this great mod was made by Tuarre, all I (CTH2004) did was change a few things, and upload the port with permision.
+	</description>
+</ModMetaData>

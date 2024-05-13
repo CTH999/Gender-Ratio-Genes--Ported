@@ -15,5 +15,6 @@ author: https://steamcommunity.com/profiles/76561198051307062/myworkshopfiles/?a
 changes: 
 		1. Slight gramatical change
 		2. ported to 1.5 as well
-		4. made harmony reqruiered by the mods about file as well
-		5. Made biotech reqrired by the mods about file
+		3. made harmony reqruiered by the mods about file as well
+		4. Made biotech reqrired by the mods about file
+		5. add a "mod version"

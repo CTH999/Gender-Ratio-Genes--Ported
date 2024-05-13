@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<!-- Changes:
-		1. Slight gramatical change
-		2. ported to 1.5 as well
-		4. made harmony reqruiered by the mods about file as well
-	-->
 	<name>Gender Ratio Genes: 1.5+</name>
 	<author>Tuarre</author>
 	<packageId>Tuarre.GenGenderRatio</packageId>
@@ -12,13 +7,14 @@
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
+	<version>2.0.0</version>
 	<description>
 	This mod adds a new pack of genes that change the gender ratio of that xenotype
 	
 	
 Note from the porter: this great mod was made by Tuarre, all I (CTH2004) did was change a few things, and upload the port with permision.
 Note from the porter 2: if you are using this mod, do not, I repeat, do not, use it with the original. The ID's are the same to allow for cross-compatibality, meaning youll have duplicates and errors galore!
-Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bugs/ updateing to new versions. I do have plans (and permision) to integrate it with my mod, and there new features shall abound!
+Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bugs/ updateing to new versions (well, I might add a few extra goodies :). I do have plans (and permision) to integrate it with my mod, and there new features shall abound!
 	</description>
 		<modDependencies>
 		<li>
@@ -35,3 +31,10 @@ Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bug
 	<incompatibleWith>
 	</incompatibleWith>
 </ModMetaData>
+
+	<!-- Changes:
+		1. Slight gramatical change
+		2. ported to 1.5 as well
+		3. made harmony reqruiered by the mods about file as well
+		4. Made biotech reqrired by the mods about file
+	-->

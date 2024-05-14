@@ -28,9 +28,9 @@ Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bug
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
 		</li>
 	</modDependencies>
-	<loadBefore>
+	<loadAfter>
 		<li>neronix17.toolbox</li>
-	</loadBefore>
+	</loadAfter>
 	<incompatibleWith>
 	</incompatibleWith>
 </ModMetaData>

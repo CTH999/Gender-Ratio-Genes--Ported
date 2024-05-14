@@ -7,7 +7,7 @@
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
-	<modVersion>2.0.0</modVersion>
+	<modVersion>2.0.1</modVersion>
 	<description>
 	This mod adds a new pack of genes that change the gender ratio of that xenotype
 	
@@ -28,6 +28,9 @@ Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bug
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
 		</li>
 	</modDependencies>
+	<loadBefore>
+		<li>neronix17.toolbox</li>
+	</loadBefore>
 	<incompatibleWith>
 	</incompatibleWith>
 </ModMetaData>

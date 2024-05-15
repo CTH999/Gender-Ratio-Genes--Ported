@@ -11,6 +11,10 @@ Wonderful question! I'll let the mods original description tell you:
 >
 >To modders.
 >You can use my mod as a requirement.
+
+## Are there any new additions to it after the posting
+Kinda. I haven't (and won't) add new features per-say, but I have done some alterations to the file structure to make the mod more robust, as well as a soft compatibility with [Tabula Rasa](https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094), provideing an in-game changelog. So, nothing that will be easily noticeable!
+
 # Warnings
 1. as this is a 1 for 1 port, new genes and such shan't be added. A long term plan is to integrate it with my main mod, but that's medium-term
 2. to prevent incompatibility, I kept all ID's the same. that means haveing both mods downloaded can cause issues
@@ -26,7 +30,7 @@ the log of changes made so far
 
 ## Version [2.0.1](https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/2.0.1)
 1. added version folders (might help with bug fixes?)
-2. added in a Tabula Rasa based changelog (soft compat)
+2. added in a [Tabula Rasa based changelog](https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094) (soft compat)
 3. added in a changelog pre-file
 4. finished description
 5. made markdown into a mod info page

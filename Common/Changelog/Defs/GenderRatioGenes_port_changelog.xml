@@ -50,15 +50,22 @@ put a version number into the mod (as this is a port to a new version, with the 
 		</contentList>
 		<links>
 			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkLabel>Steam Workshop (port)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>Steam Workshop (original mod)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3089173425</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub Release</linkLabel>
-				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/tree/2.0.0</linkUrl>
+				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/2.0.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
+			
+			
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- version 2.0.1 -->
@@ -80,20 +87,26 @@ put a document into the mod with the steam description
 				<text>made the mod Tabula Rasa a soft reqrirment
 made it so if you have Tabula Rasa, you will get a changelog (you should know, your currently reading it), which is put into a "common" folder
 	made a "common" folder. all rim-world versions will load it, and it's for stuff like this changelog
-added in links, credit, a micro-"wiki" for it, ect.
+	
+added in links, credit, a micro-"wiki" for it, ect. (read: a formated readME file)
 added that link both into this changelog, the about file, and the steam description
 </text>
 			</li>
 		</contentList>
 		<links>
 			<li>
-				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkLabel>Steam Workshop (port)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
-				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkLabel>Steam Workshop (original mod)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3089173425</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub Release</linkLabel>
+				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/2.0.1</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>

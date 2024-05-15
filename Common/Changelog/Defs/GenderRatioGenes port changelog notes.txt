@@ -10,3 +10,6 @@ added mod version
 added version folders (might help with bug fixes?)
 added in a Tabula Rasa based changelog (soft compat)
 added in a changelog pre-file (this one)
+finished description
+made markdown into a mod info page
+added link to said markdown into about file

@@ -13,7 +13,7 @@
 		<!-- non version-specific -->
 		<li>/</li>
 		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Changelog</li>
+		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
 		<!-- version specific -->
 		<li>1.5</li>

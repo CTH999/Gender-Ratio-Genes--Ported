@@ -13,3 +13,7 @@ added in a changelog pre-file (this one)
 finished description
 made markdown into a mod info page
 added link to said markdown into about file
+
+2.0.2
+fixed an error of the date for update 2.0.1
+altered location of changelog to be more organized

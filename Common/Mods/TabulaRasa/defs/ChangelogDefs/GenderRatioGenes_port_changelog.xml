@@ -141,5 +141,45 @@ improved filestructure and moved this to acount for that
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
+		<!-- 2.0.3 -->
+	</TabulaRasa.UpdateDef>
+		<TabulaRasa.UpdateDef>
+		<defName>GenderRatioGenes_port_20241124</defName>
+		<date>2024/11/24</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>IMPORTANT NOTICE</header>
+				<text>this mod will no longer be truly recieving updates. Major bugs, and updateing to new rimworld versions, that's it. All content related to, or based off of, this mod, is now in Rimworld Extended: Properly</text>
+			</li>
+			<li>
+				<header>Major Update</header>
+				<text>made incompatible with my main mod
+added the contents of this mod to my main mod
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop (port)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3245648283</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>Steam Workshop (original mod)</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3089173425</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub Release</linkLabel>
+				<linkUrl>https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/2.0.3</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			<li>
+				<linkLabel>Steam Workshop: Main Mod</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3114130835</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			</li>
+		</links>
 	</TabulaRasa.UpdateDef>
 </Defs>

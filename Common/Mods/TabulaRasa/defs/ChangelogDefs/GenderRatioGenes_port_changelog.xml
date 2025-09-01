@@ -141,7 +141,7 @@ improved filestructure and moved this to acount for that
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-		<!-- 2.0.3 -->
+		<!-- 3.0.0 -->
 	</TabulaRasa.UpdateDef>
 		<TabulaRasa.UpdateDef>
 		<defName>GenderRatioGenes_port_20241124</defName>

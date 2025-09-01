@@ -22,5 +22,6 @@
 		<li>/</li>
 		<li>Common</li>
 		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
+		<li>1.6</li>
 	</v1.6>
 </loadFolders>

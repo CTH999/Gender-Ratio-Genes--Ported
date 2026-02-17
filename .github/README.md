@@ -18,20 +18,3 @@ Kinda. I haven't (and won't) add new features per-say, but I have done some alte
 # Warnings
 1. as this is a 1 for 1 port, new genes and such shan't be added. A long term plan is to integrate it with my main mod, but that's medium-term
 2. to prevent incompatibility, I kept all ID's the same. that means haveing both mods downloaded can cause issues
-
-# Changelog
-the log of changes made so far 
-## Version [2.0.0](https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/2.0.0)
-1. Slight gramatical change
-2. ported to 1.5 as well
-3. made harmony reqruiered by the mods about file as well
-4. Made biotech reqrired by the mods about file
-5. added mod version
-
-## Version [2.0.1](https://github.com/CTH999/Gender-Ratio-Genes--Ported/releases/tag/2.0.1)
-1. added version folders (might help with bug fixes?)
-2. added in a [Tabula Rasa based changelog](https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094) (soft compat)
-3. added in a changelog pre-file
-4. finished description
-5. made markdown into a mod info page
-6. added link to said markdown into about file

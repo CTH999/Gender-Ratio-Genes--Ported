@@ -6,8 +6,7 @@
 		<li>Common</li>
 		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
-		<!-- version specific -->
-		<li>1.4</li>
+		<li>1.4</li>	<!-- version specific -->
 	</v1.4>
 	<v1.5>
 		<!-- non version-specific -->
@@ -15,8 +14,7 @@
 		<li>Common</li>
 		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
-		<!-- version specific -->
-		<li>1.5</li>
+		<li>1.5</li>	<!-- version specific -->
 	</v1.5>
 	<v1.6>
 		<!-- non version-specific -->
@@ -24,7 +22,6 @@
 		<li>Common</li>
 		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
 		
-		<!-- version specific -->
-		<li>1.6</li>
+		<li>1.6</li>	<!-- version specific -->
 	</v1.6>
 </loadFolders>

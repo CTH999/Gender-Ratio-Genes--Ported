@@ -10,7 +10,7 @@
 		<li>1.7</li>
 	</supportedVersions>
 	<url>https://github.com/CTH999/Gender-Ratio-Genes--Ported/blob/main/README.md</url>
-	<modVersion>4.1.1</modVersion>
+	<modVersion>4.1.2</modVersion>
 	<description>
 	This mod adds a new pack of genes that change the gender ratio of that xenotype
 	
@@ -22,17 +22,17 @@ Note from the porter 3: as this is a 1-for-1 port, I will only be fixing any bug
 		P.S: to other modders, you'll be happy to know that I marked the mods as incompatible because I kept the ID's the same, so, it shouldn't break your game!
 	</description>
 		<modDependencies>
-		<li>
-			<packageId>ludeon.rimworld.biotech</packageId>
-			<displayName>Biotech</displayName>
-		</li>
-		<li>
-			<packageId>brrainz.harmony</packageId>
-			<displayName>Harmony</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
-			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
-		</li>
-	</modDependencies>
+			<li>
+				<packageId>ludeon.rimworld.biotech</packageId>
+				<displayName>Biotech</displayName>
+			</li>
+			<li>
+				<packageId>brrainz.harmony</packageId>
+				<displayName>Harmony</displayName>
+				<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+				<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
+			</li>
+		</modDependencies>
 	<loadAfter>
 		<li>neronix17.toolbox</li>
 	</loadAfter>

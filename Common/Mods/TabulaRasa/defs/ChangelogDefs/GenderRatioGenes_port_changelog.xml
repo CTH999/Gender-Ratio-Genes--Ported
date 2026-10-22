@@ -328,4 +328,7 @@ added the contents of this mod to my main mod
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
+		<!-- version 4.3.0 -->
+	<TabulaRasa.UpdateDef>
+	</TabulaRasa.UpdateDef>
 </Defs>
